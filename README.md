@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Codecademy</b>
-  - [Java Projects Source Code] (https://github.com/marcuslshaw/JavaProjects)
+   - [Java Projects](https://github.com/marcuslshaw/JavaProjects)
 
 <h2>Connect with me:</h2>
 
